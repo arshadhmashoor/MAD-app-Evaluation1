@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MaApp2</string>
+    <string name="find_discover_buy_obline">Find, Discover buy Obline</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="createaccount">CreateAccount</string>
+    <string name="name">Name</string>
+    <string name="confirm_your_shipping_details">Confirm your shipping details</string>
+    <string name="your_phonenumber">Your phoneNumber</string>
+    <string name="shipment_address">shipment address</string>
+    <string name="your_home_address">your home address</string>
+    <string name="your_city_name">your city name</string>
+    <string name="confirm">confirm</string>
+    <string name="your_name">Your name</string>
+    <string name="add_new_products">Add New Products</string>
+</resources>
